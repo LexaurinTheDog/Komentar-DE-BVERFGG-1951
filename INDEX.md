@@ -1,0 +1,8 @@
+# INDEX — Kommentar zum Gesetz über das Bundesverfassungsgericht (BVerfGG)
+
+- [00-einleitung.md](00-einleitung.md) — Einleitung, Methode, Grunddaten
+- [01-teil-1-verfassung-und-zustaendigkeit.md](01-teil-1-verfassung-und-zustaendigkeit.md) — Kommentarkapitel 01: I. Teil — Verfassung und Zuständigkeit des Bundesverfassungsgerichts (§§ 1–16)
+- [02-teil-2-allgemeine-verfahrensvorschriften-akteneinsicht.md](02-teil-2-allgemeine-verfahrensvorschriften-akteneinsicht.md) — Kommentarkapitel 02: II. Teil — Verfassungsgerichtliches Verfahren: Allgemeine Verfahrensvorschriften; Akteneinsicht außerhalb des Verfahrens (§§ 17–35c)
+- [03-teil-3-abschnitte-1-9-grundrechtsverwirkung-parteiverbot-wahlpruefung-anklagen-organstreit-bund-laender-streit.md](03-teil-3-abschnitte-1-9-grundrechtsverwirkung-parteiverbot-wahlpruefung-anklagen-organstreit-bund-laender-streit.md) — Kommentarkapitel 03: III. Teil, Abschnitte 1–9 — Grundrechtsverwirkung, Parteiverbot und Finanzierungsausschluss, Wahlprüfung, Präsidenten- und Richteranklage, Organstreit, Bund-Länder-Streit, sonstige Streitigkeiten (§§ 36–75)
+- [04-teil-3-abschnitte-10-17-normenkontrolle-verfassungsbeschwerde.md](04-teil-3-abschnitte-10-17-normenkontrolle-verfassungsbeschwerde.md) — Kommentarkapitel 04: III. Teil, Abschnitte 10–17 — Abstrakte und konkrete Normenkontrolle, Völkerrechtsverifikation, Divergenzvorlage, Fortgeltung von Recht, Verfassungsbeschwerde, Ersetzungsbefugnis, Nichtanerkennungsbeschwerde (§§ 76–96d)
+- [05-teil-4-und-5-verzoegerungsbeschwerde-schlussvorschriften.md](05-teil-4-und-5-verzoegerungsbeschwerde-schlussvorschriften.md) — Kommentarkapitel 05: IV. und V. Teil — Verzögerungsbeschwerde; Schlussvorschriften (§§ 97a–107)
